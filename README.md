@@ -117,8 +117,9 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
-```
+
 ## Program
+```
 # A* Algorithm
 from collections import defaultdict
 import networkx as nx
@@ -219,7 +220,7 @@ else:
         plt.axis("off")
         plt.show()
 ```
-```
+
 ## output
 <img width="995" height="635" alt="Screenshot 2026-08-01 101833" src="https://github.com/user-attachments/assets/a151546e-176a-4e10-8d32-b220a1a85c85" />
 <img width="966" height="687" alt="Screenshot 2026-08-01 101845" src="https://github.com/user-attachments/assets/6678a25c-1e48-4171-9e60-2edfd2dd92d7" />
